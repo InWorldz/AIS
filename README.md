@@ -1,3 +1,9 @@
+### NOTE:
+This project has been moved to the independent Halcyon simulator project under:
+* https://github.com/HalcyonGrid/AIS
+
+---
+
 # AIS
 AISv3 user inventory REST API implementation.
 
